@@ -1,0 +1,16 @@
+C:\Users\fride\source\repos\MacroRecorder\MacroRecorder\bin\Debug\netcoreapp3.1\MacroRecorder.exe
+C:\Users\fride\source\repos\MacroRecorder\MacroRecorder\bin\Debug\netcoreapp3.1\MacroRecorder.deps.json
+C:\Users\fride\source\repos\MacroRecorder\MacroRecorder\bin\Debug\netcoreapp3.1\MacroRecorder.runtimeconfig.json
+C:\Users\fride\source\repos\MacroRecorder\MacroRecorder\bin\Debug\netcoreapp3.1\MacroRecorder.runtimeconfig.dev.json
+C:\Users\fride\source\repos\MacroRecorder\MacroRecorder\bin\Debug\netcoreapp3.1\MacroRecorder.dll
+C:\Users\fride\source\repos\MacroRecorder\MacroRecorder\bin\Debug\netcoreapp3.1\MacroRecorder.pdb
+C:\Users\fride\source\repos\MacroRecorder\MacroRecorder\obj\Debug\netcoreapp3.1\MacroRecorder.csproj.AssemblyReference.cache
+C:\Users\fride\source\repos\MacroRecorder\MacroRecorder\obj\Debug\netcoreapp3.1\MacroRecorder.Form1.resources
+C:\Users\fride\source\repos\MacroRecorder\MacroRecorder\obj\Debug\netcoreapp3.1\MacroRecorder.csproj.GenerateResource.cache
+C:\Users\fride\source\repos\MacroRecorder\MacroRecorder\obj\Debug\netcoreapp3.1\MacroRecorder.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\fride\source\repos\MacroRecorder\MacroRecorder\obj\Debug\netcoreapp3.1\MacroRecorder.AssemblyInfoInputs.cache
+C:\Users\fride\source\repos\MacroRecorder\MacroRecorder\obj\Debug\netcoreapp3.1\MacroRecorder.AssemblyInfo.cs
+C:\Users\fride\source\repos\MacroRecorder\MacroRecorder\obj\Debug\netcoreapp3.1\MacroRecorder.csproj.CoreCompileInputs.cache
+C:\Users\fride\source\repos\MacroRecorder\MacroRecorder\obj\Debug\netcoreapp3.1\MacroRecorder.dll
+C:\Users\fride\source\repos\MacroRecorder\MacroRecorder\obj\Debug\netcoreapp3.1\MacroRecorder.pdb
+C:\Users\fride\source\repos\MacroRecorder\MacroRecorder\obj\Debug\netcoreapp3.1\MacroRecorder.genruntimeconfig.cache
