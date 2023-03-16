@@ -1,8 +1,10 @@
 {
   "version": 2,
-  "dgSpecHash": "P96G2bMeS+CCysoSEW46gUWmWrPl3OMaOKzxRNT5KWMEvjnhRSjAuUYZDokd45HH5IvRLFsR2vmS7EiKfDOLdw==",
+  "dgSpecHash": "+UzuAWinD/Jhk8JqHdrdO1WqlStWBvaShaSggaPY4TKYkZNC0cCIT4ft0nI9qgYEtz6i0kvmurY7fS/DNsr0NA==",
   "success": true,
   "projectFilePath": "C:\\Users\\fride\\source\\repos\\MacroRecorder\\MacroRecorder\\MacroRecorder.csproj",
-  "expectedPackageFiles": [],
+  "expectedPackageFiles": [
+    "C:\\Users\\fride\\.nuget\\packages\\guna.ui2.winforms\\2.0.4.4\\guna.ui2.winforms.2.0.4.4.nupkg.sha512"
+  ],
   "logs": []
 }

@@ -1,0 +1,15 @@
+C:\Users\fride\source\repos\MacroRecorder\MacroRecorder\obj\Debug\net48\MacroRecorder.csproj.AssemblyReference.cache
+C:\Users\fride\source\repos\MacroRecorder\MacroRecorder\obj\Debug\net48\MacroRecorder.csproj.SuggestedBindingRedirects.cache
+C:\Users\fride\source\repos\MacroRecorder\MacroRecorder\obj\Debug\net48\MacroRecorder.Form1.resources
+C:\Users\fride\source\repos\MacroRecorder\MacroRecorder\obj\Debug\net48\MacroRecorder.csproj.GenerateResource.cache
+C:\Users\fride\source\repos\MacroRecorder\MacroRecorder\obj\Debug\net48\MacroRecorder.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\fride\source\repos\MacroRecorder\MacroRecorder\obj\Debug\net48\MacroRecorder.AssemblyInfoInputs.cache
+C:\Users\fride\source\repos\MacroRecorder\MacroRecorder\obj\Debug\net48\MacroRecorder.AssemblyInfo.cs
+C:\Users\fride\source\repos\MacroRecorder\MacroRecorder\obj\Debug\net48\MacroRecorder.csproj.CoreCompileInputs.cache
+C:\Users\fride\source\repos\MacroRecorder\MacroRecorder\bin\Debug\net48\MacroRecorder.exe.config
+C:\Users\fride\source\repos\MacroRecorder\MacroRecorder\bin\Debug\net48\MacroRecorder.exe
+C:\Users\fride\source\repos\MacroRecorder\MacroRecorder\bin\Debug\net48\MacroRecorder.pdb
+C:\Users\fride\source\repos\MacroRecorder\MacroRecorder\bin\Debug\net48\Guna.UI2.dll
+C:\Users\fride\source\repos\MacroRecorder\MacroRecorder\obj\Debug\net48\MacroRecorder.csproj.CopyComplete
+C:\Users\fride\source\repos\MacroRecorder\MacroRecorder\obj\Debug\net48\MacroRecorder.exe
+C:\Users\fride\source\repos\MacroRecorder\MacroRecorder\obj\Debug\net48\MacroRecorder.pdb
